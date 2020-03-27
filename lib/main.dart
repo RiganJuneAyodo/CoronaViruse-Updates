@@ -42,16 +42,7 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
             title: new Center(child: titleWidget('Corona Virus Updates', appTitleFontSize)),
           ),
-          body: Container(
-            child: new Center(
-              child: RefreshIndicator(
-                  child: getUpdates(),
-//                  onRefresh: setState(() {
-//
-//                  })()
-              ),
-            ),
-          )
+          body: getUpdates()
       ),
     );
   }
