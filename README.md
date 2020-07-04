@@ -1,16 +1,15 @@
-# coronavirusupdates
+# Covid-19 Updates
+This is an app;ication to give a world wide updates of the corona virus infections.
+It be default displays the infections numbers in your country in the home page.
 
-A corona virus update app
+Its supports:
+* Android
+* iOS
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![image1](https://user-images.githubusercontent.com/39817924/86518950-721d6400-be3e-11ea-958c-4a62905665f7.png)
+![image2](https://user-images.githubusercontent.com/39817924/86518954-777aae80-be3e-11ea-86cd-b422c6ba2a3a.jpeg)
+![Image3](https://user-images.githubusercontent.com/39817924/86518955-79dd0880-be3e-11ea-9700-a20fa82a2480.jpeg)
+![Image3e](https://user-images.githubusercontent.com/39817924/86518956-7ba6cc00-be3e-11ea-81e7-310ccc5f8670.jpeg)
+![Image4](https://user-images.githubusercontent.com/39817924/86518958-7e092600-be3e-11ea-8004-9c0f768879f8.jpeg)
+![Image5](https://user-images.githubusercontent.com/39817924/86518959-7ea1bc80-be3e-11ea-9cc4-3a79a8faedfd.jpeg)
