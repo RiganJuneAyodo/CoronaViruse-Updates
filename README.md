@@ -7,9 +7,6 @@ Its supports:
 * iOS
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/39817924/86518950-721d6400-be3e-11ea-958c-4a62905665f7.png" width="500" height="700">
-![image2](https://user-images.githubusercontent.com/39817924/86518954-777aae80-be3e-11ea-86cd-b422c6ba2a3a.jpeg)
-![Image3](https://user-images.githubusercontent.com/39817924/86518955-79dd0880-be3e-11ea-9700-a20fa82a2480.jpeg)
-![Image3e](https://user-images.githubusercontent.com/39817924/86518956-7ba6cc00-be3e-11ea-81e7-310ccc5f8670.jpeg)
-![Image4](https://user-images.githubusercontent.com/39817924/86518958-7e092600-be3e-11ea-8004-9c0f768879f8.jpeg)
-![Image5](https://user-images.githubusercontent.com/39817924/86518959-7ea1bc80-be3e-11ea-9cc4-3a79a8faedfd.jpeg)
+![WhatsApp Image 2020-07-04 at 21 56 18](https://user-images.githubusercontent.com/39817924/86519256-9cbcec00-be41-11ea-8c6c-3d3dae6207f2.jpeg)
+![Image](https://user-images.githubusercontent.com/39817924/86519257-a0507300-be41-11ea-8f4e-8f55d4b9e33e.jpeg)
+![WhatsApp Image 2020-07-04 at 21 56 20 (1)](https://user-images.githubusercontent.com/39817924/86519258-a181a000-be41-11ea-98ee-31fb24279ef8.jpeg)
