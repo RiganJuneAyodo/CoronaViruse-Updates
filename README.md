@@ -7,6 +7,6 @@ Its supports:
 * iOS
 
 ## Screenshots
-![WhatsApp Image 2020-07-04 at 21 56 18](https://user-images.githubusercontent.com/39817924/86519256-9cbcec00-be41-11ea-8c6c-3d3dae6207f2.jpeg)
-![Image](https://user-images.githubusercontent.com/39817924/86519257-a0507300-be41-11ea-8f4e-8f55d4b9e33e.jpeg)
-![WhatsApp Image 2020-07-04 at 21 56 20 (1)](https://user-images.githubusercontent.com/39817924/86519258-a181a000-be41-11ea-98ee-31fb24279ef8.jpeg)
+<img src="https://user-images.githubusercontent.com/39817924/86519256-9cbcec00-be41-11ea-8c6c-3d3dae6207f2.jpeg" width="750" height="900">
+<img src="https://user-images.githubusercontent.com/39817924/86519257-a0507300-be41-11ea-8f4e-8f55d4b9e33e.jpeg" width="750" height="900">
+<img src="https://user-images.githubusercontent.com/39817924/86519258-a181a000-be41-11ea-98ee-31fb24279ef8.jpeg" width="750" height="900">
