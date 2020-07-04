@@ -7,6 +7,6 @@ Its supports:
 * iOS
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/39817924/86519256-9cbcec00-be41-11ea-8c6c-3d3dae6207f2.jpeg" width="750" height="900">
+<img src="https://user-images.githubusercontent.com/39817924/86519256-9cbcec00-be41-11ea-8c6c-3d3dae6207f2.jpeg" width="400" height="600">
 <img src="https://user-images.githubusercontent.com/39817924/86519257-a0507300-be41-11ea-8f4e-8f55d4b9e33e.jpeg" width="750" height="900">
 <img src="https://user-images.githubusercontent.com/39817924/86519258-a181a000-be41-11ea-98ee-31fb24279ef8.jpeg" width="750" height="900">
